@@ -1,0 +1,80 @@
+bâtir:to build
+dater de:to date from
+deviner:to guess
+emmener:to take someone along
+flâner:to stroll
+peindre:to paint
+poursuivre:to pursue
+suivre:to follow
+vivre:to live
+accepter de:to accept to
+aider à:to help to
+arrêter de:to stop
+chercher à:to try to
+commencer par:to begin by
+conseiller de:to advise to
+continuer à:to continue to
+décider de:to decide to
+empêcher de:to prevent from
+enseigner à:to teach to
+essayer de:to try to
+finir par:to end up
+permetre de:to permit
+refuser de:to refuse to
+réussir à:to succeed in
+l'acteur/l'actrice:actor
+les arènes:arena
+l'artiste:artist
+la cathédrale:cathedral
+le chef-d'oeuvre:masterpiece
+le/la cinéaste:filmmaker
+le compositeur/la compositrice:composer
+la conférence:lecture
+l'écrivain/la femme écrivain:writer
+l'époque:hostorical period
+l'événement:event
+l'exposition:exhibit
+l'horaire:schedule
+le Moyen Age:Middle Ages
+le/la musicien(ne):musician
+l'oeuvre d'art:work of art
+le palais:palace
+le patrimoine:legacy
+le peintre/la femme peintre:painter
+la peinture:painting
+la pièce de théâtre:theater
+actif:active
+absolu(e):absolute
+classique:classical
+constant(e):constant
+courant(e):common
+évident:evident
+franc(he):frank
+gothique:Gothic
+historique:historical
+lent(e):show
+magnifique:magnificent
+malheureux/malheureuse:unhappy
+médiéval(e):medieval
+poli(e):polite
+rapide:fast,rapid
+romain(e):Roman
+activement:actively
+absolument:absolutely
+constamment:constantly
+couramment:fluently
+différemment:differently
+évidemment:evidently
+franchement:frankly
+heureusement:fortunately
+lentement:slowly
+malheureusement:unfortunately
+poliment:politely
+rapidement:rapidly
+récemment:recently
+vraiment:really
+la plupart de:the majority
+moi-même:myself
+toi-même:yourself
+lui-même:themselves
+par coeur:by heart
